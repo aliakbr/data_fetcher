@@ -1,0 +1,17 @@
+{
+  "name"         : "data_fetcher",
+  "version"      : "0.0.0",
+  "license"      : "ISC",
+  "description"  : "Just a simple use of Twitter REST API for fetching some data",
+  "main"         : "data_fetcher.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliakbr/data_fetcher.git"
+  },
+  "author"       : "Ali Akbar",
+  "dependencies" : {
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "bluebird"    : "latest"
+  }
+}

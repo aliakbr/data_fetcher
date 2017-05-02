@@ -1,0 +1,2202 @@
+[
+   {
+      "created_at": "Tue May 02 14:30:02 +0000 2017",
+      "id": 859414683505315800,
+      "id_str": "859414683505315840",
+      "text": "RT @ThisDayInMETAL: May 2nd 2006 @Tool released the album  \"10,000 Days\" #Vicarious #ThePot #RightInTwo #Jambi #VigintiTres #Intension #Pro…",
+      "truncated": false,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "Vicarious",
+               "indices": [
+                  73,
+                  83
+               ]
+            },
+            {
+               "text": "ThePot",
+               "indices": [
+                  84,
+                  91
+               ]
+            },
+            {
+               "text": "RightInTwo",
+               "indices": [
+                  92,
+                  103
+               ]
+            },
+            {
+               "text": "Jambi",
+               "indices": [
+                  104,
+                  110
+               ]
+            },
+            {
+               "text": "VigintiTres",
+               "indices": [
+                  111,
+                  123
+               ]
+            },
+            {
+               "text": "Intension",
+               "indices": [
+                  124,
+                  134
+               ]
+            }
+         ],
+         "symbols": [],
+         "user_mentions": [
+            {
+               "screen_name": "ThisDayInMETAL",
+               "name": "THIS DAY IN METAL",
+               "id": 743472216,
+               "id_str": "743472216",
+               "indices": [
+                  3,
+                  18
+               ]
+            },
+            {
+               "screen_name": "Tool",
+               "name": "TOOL effing TOOL",
+               "id": 1737401,
+               "id_str": "1737401",
+               "indices": [
+                  33,
+                  38
+               ]
+            }
+         ],
+         "urls": []
+      },
+      "metadata": {
+         "iso_language_code": "en",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 895869944,
+         "id_str": "895869944",
+         "name": "Terry Gardner",
+         "screen_name": "Burn1ng_Chr0me",
+         "location": "St. John's, NL. Canada",
+         "description": "It's a Satanic drug thing; you wouldn't understand.",
+         "url": "https://t.co/jHNtMjSYM6",
+         "entities": {
+            "url": {
+               "urls": [
+                  {
+                     "url": "https://t.co/jHNtMjSYM6",
+                     "expanded_url": "https://arcticsleep.com/",
+                     "display_url": "arcticsleep.com",
+                     "indices": [
+                        0,
+                        23
+                     ]
+                  }
+               ]
+            },
+            "description": {
+               "urls": []
+            }
+         },
+         "protected": false,
+         "followers_count": 300,
+         "friends_count": 271,
+         "listed_count": 11,
+         "created_at": "Sun Oct 21 18:13:49 +0000 2012",
+         "favourites_count": 8218,
+         "utc_offset": -9000,
+         "time_zone": "Newfoundland",
+         "geo_enabled": true,
+         "verified": false,
+         "statuses_count": 4631,
+         "lang": "en",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "1A1B1F",
+         "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459478188817522688/ltH1HQHG.jpeg",
+         "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459478188817522688/ltH1HQHG.jpeg",
+         "profile_background_tile": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/858291355709308930/C5XHbgsw_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/858291355709308930/C5XHbgsw_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/895869944/1427802306",
+         "profile_link_color": "B51010",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "252429",
+         "profile_text_color": "666666",
+         "profile_use_background_image": true,
+         "has_extended_profile": true,
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+         "created_at": "Tue May 02 14:14:37 +0000 2017",
+         "id": 859410806332678100,
+         "id_str": "859410806332678144",
+         "text": "May 2nd 2006 @Tool released the album  \"10,000 Days\" #Vicarious #ThePot #RightInTwo #Jambi #VigintiTres #Intension… https://t.co/5UEtnQ20N7",
+         "truncated": true,
+         "entities": {
+            "hashtags": [
+               {
+                  "text": "Vicarious",
+                  "indices": [
+                     53,
+                     63
+                  ]
+               },
+               {
+                  "text": "ThePot",
+                  "indices": [
+                     64,
+                     71
+                  ]
+               },
+               {
+                  "text": "RightInTwo",
+                  "indices": [
+                     72,
+                     83
+                  ]
+               },
+               {
+                  "text": "Jambi",
+                  "indices": [
+                     84,
+                     90
+                  ]
+               },
+               {
+                  "text": "VigintiTres",
+                  "indices": [
+                     91,
+                     103
+                  ]
+               },
+               {
+                  "text": "Intension",
+                  "indices": [
+                     104,
+                     114
+                  ]
+               }
+            ],
+            "symbols": [],
+            "user_mentions": [
+               {
+                  "screen_name": "Tool",
+                  "name": "TOOL effing TOOL",
+                  "id": 1737401,
+                  "id_str": "1737401",
+                  "indices": [
+                     13,
+                     18
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/5UEtnQ20N7",
+                  "expanded_url": "https://twitter.com/i/web/status/859410806332678144",
+                  "display_url": "twitter.com/i/web/status/8…",
+                  "indices": [
+                     116,
+                     139
+                  ]
+               }
+            ]
+         },
+         "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+         },
+         "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 743472216,
+            "id_str": "743472216",
+            "name": "THIS DAY IN METAL",
+            "screen_name": "ThisDayInMETAL",
+            "location": "Toronto",
+            "description": "What happened on this day in #ROCK #CLASSICROCK #GLAMMETAL #HEAVYMETAL #THRASH history! #TDIM https://t.co/1kiRkXCNVn",
+            "url": "https://t.co/YQcMWfNJtn",
+            "entities": {
+               "url": {
+                  "urls": [
+                     {
+                        "url": "https://t.co/YQcMWfNJtn",
+                        "expanded_url": "http://www.thisdayinheavymetal.com",
+                        "display_url": "thisdayinheavymetal.com",
+                        "indices": [
+                           0,
+                           23
+                        ]
+                     }
+                  ]
+               },
+               "description": {
+                  "urls": [
+                     {
+                        "url": "https://t.co/1kiRkXCNVn",
+                        "expanded_url": "http://youtube.com/c/ThisDayInMetal",
+                        "display_url": "youtube.com/c/ThisDayInMet…",
+                        "indices": [
+                           94,
+                           117
+                        ]
+                     }
+                  ]
+               }
+            },
+            "protected": false,
+            "followers_count": 98815,
+            "friends_count": 1611,
+            "listed_count": 583,
+            "created_at": "Tue Aug 07 18:34:51 +0000 2012",
+            "favourites_count": 39434,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 13437,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/859194813362688002/HqRaYS8S_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/859194813362688002/HqRaYS8S_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/743472216/1471655281",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "retweet_count": 18,
+         "favorite_count": 31,
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+   },
+   {
+      "created_at": "Tue May 02 14:29:57 +0000 2017",
+      "id": 859414663611781100,
+      "id_str": "859414663611781120",
+      "text": "⭐ https://t.co/kx3wWMqSM6 ←← #sange #ngentot #memek #bokep #bugil #bispak Mainin Toket Memek Pembantu VIDEO: Satu Keluarga Asal Jambi Suda…",
+      "truncated": false,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "sange",
+               "indices": [
+                  29,
+                  35
+               ]
+            },
+            {
+               "text": "ngentot",
+               "indices": [
+                  36,
+                  44
+               ]
+            },
+            {
+               "text": "memek",
+               "indices": [
+                  45,
+                  51
+               ]
+            },
+            {
+               "text": "bokep",
+               "indices": [
+                  52,
+                  58
+               ]
+            },
+            {
+               "text": "bugil",
+               "indices": [
+                  59,
+                  65
+               ]
+            },
+            {
+               "text": "bispak",
+               "indices": [
+                  66,
+                  73
+               ]
+            }
+         ],
+         "symbols": [],
+         "user_mentions": [],
+         "urls": [
+            {
+               "url": "https://t.co/kx3wWMqSM6",
+               "expanded_url": "http://ift.tt/2osJWKx",
+               "display_url": "ift.tt/2osJWKx",
+               "indices": [
+                  2,
+                  25
+               ]
+            }
+         ]
+      },
+      "metadata": {
+         "iso_language_code": "in",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 737671615245209600,
+         "id_str": "737671615245209602",
+         "name": "Soraya Rarasa",
+         "screen_name": "SorrAyamx",
+         "location": "",
+         "description": "Punya mas lebis besar dan keras memang mantap, bikin merem melek, udah nggak berasa sama yang kecil kecil bikin bt aja.",
+         "url": null,
+         "entities": {
+            "description": {
+               "urls": []
+            }
+         },
+         "protected": false,
+         "followers_count": 546,
+         "friends_count": 0,
+         "listed_count": 0,
+         "created_at": "Tue May 31 15:46:33 +0000 2016",
+         "favourites_count": 0,
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "verified": false,
+         "statuses_count": 72923,
+         "lang": "id",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": null,
+         "profile_background_image_url_https": null,
+         "profile_background_tile": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/737672121032146944/JgwpRfCs_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/737672121032146944/JgwpRfCs_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/737671615245209602/1464804877",
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": false,
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+   },
+   {
+      "created_at": "Tue May 02 14:29:32 +0000 2017",
+      "id": 859414559077023700,
+      "id_str": "859414559077023745",
+      "text": "Bolehkah Ibadah Umroh Gunakan Dana Talangan? ini Jawabannya https://t.co/djNTD1HGoP #BeritaSumatera",
+      "truncated": false,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "BeritaSumatera",
+               "indices": [
+                  84,
+                  99
+               ]
+            }
+         ],
+         "symbols": [],
+         "user_mentions": [],
+         "urls": [
+            {
+               "url": "https://t.co/djNTD1HGoP",
+               "expanded_url": "http://dlvr.it/P2hjH6",
+               "display_url": "dlvr.it/P2hjH6",
+               "indices": [
+                  60,
+                  83
+               ]
+            }
+         ]
+      },
+      "metadata": {
+         "iso_language_code": "in",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1154402246,
+         "id_str": "1154402246",
+         "name": "Warta Sumatera",
+         "screen_name": "WartaSumatera",
+         "location": "",
+         "description": "| Berita seputar Sumatera | Mau berbagi berita seputar Sumatera? Mention @WartaSumatera | Kontak: wartasumatera@outlook.com |",
+         "url": null,
+         "entities": {
+            "description": {
+               "urls": []
+            }
+         },
+         "protected": false,
+         "followers_count": 622,
+         "friends_count": 49,
+         "listed_count": 7,
+         "created_at": "Wed Feb 06 16:02:42 +0000 2013",
+         "favourites_count": 0,
+         "utc_offset": 25200,
+         "time_zone": "Bangkok",
+         "geo_enabled": false,
+         "verified": false,
+         "statuses_count": 214496,
+         "lang": "en",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/3216506253/a2df0e1d31666e1f98b628e506b6a0e6_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/3216506253/a2df0e1d31666e1f98b628e506b6a0e6_normal.jpeg",
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": false,
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+   },
+   {
+      "created_at": "Tue May 02 14:29:30 +0000 2017",
+      "id": 859414550642163700,
+      "id_str": "859414550642163712",
+      "text": "Umroh Tanpa DP Bisa Dicicil 10 Tahun https://t.co/Wh4Reh0cYM #BeritaSumatera",
+      "truncated": false,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "BeritaSumatera",
+               "indices": [
+                  61,
+                  76
+               ]
+            }
+         ],
+         "symbols": [],
+         "user_mentions": [],
+         "urls": [
+            {
+               "url": "https://t.co/Wh4Reh0cYM",
+               "expanded_url": "http://dlvr.it/P2hjB6",
+               "display_url": "dlvr.it/P2hjB6",
+               "indices": [
+                  37,
+                  60
+               ]
+            }
+         ]
+      },
+      "metadata": {
+         "iso_language_code": "in",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1154402246,
+         "id_str": "1154402246",
+         "name": "Warta Sumatera",
+         "screen_name": "WartaSumatera",
+         "location": "",
+         "description": "| Berita seputar Sumatera | Mau berbagi berita seputar Sumatera? Mention @WartaSumatera | Kontak: wartasumatera@outlook.com |",
+         "url": null,
+         "entities": {
+            "description": {
+               "urls": []
+            }
+         },
+         "protected": false,
+         "followers_count": 622,
+         "friends_count": 49,
+         "listed_count": 7,
+         "created_at": "Wed Feb 06 16:02:42 +0000 2013",
+         "favourites_count": 0,
+         "utc_offset": 25200,
+         "time_zone": "Bangkok",
+         "geo_enabled": false,
+         "verified": false,
+         "statuses_count": 214496,
+         "lang": "en",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/3216506253/a2df0e1d31666e1f98b628e506b6a0e6_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/3216506253/a2df0e1d31666e1f98b628e506b6a0e6_normal.jpeg",
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": false,
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+   },
+   {
+      "created_at": "Tue May 02 14:29:27 +0000 2017",
+      "id": 859414538642260000,
+      "id_str": "859414538642259968",
+      "text": "Rental Dua Mobil, Eh Pria Ini Menggadaikannya ke Warga Suku Anak Dalam, ini yang Terjadi Kemudian https://t.co/v2KT4Behlm #BeritaSumatera",
+      "truncated": false,
+      "entities": {
+         "hashtags": [
+            {
+               "text": "BeritaSumatera",
+               "indices": [
+                  122,
+                  137
+               ]
+            }
+         ],
+         "symbols": [],
+         "user_mentions": [],
+         "urls": [
+            {
+               "url": "https://t.co/v2KT4Behlm",
+               "expanded_url": "http://dlvr.it/P2hj1T",
+               "display_url": "dlvr.it/P2hj1T",
+               "indices": [
+                  98,
+                  121
+               ]
+            }
+         ]
+      },
+      "metadata": {
+         "iso_language_code": "in",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1154402246,
+         "id_str": "1154402246",
+         "name": "Warta Sumatera",
+         "screen_name": "WartaSumatera",
+         "location": "",
+         "description": "| Berita seputar Sumatera | Mau berbagi berita seputar Sumatera? Mention @WartaSumatera | Kontak: wartasumatera@outlook.com |",
+         "url": null,
+         "entities": {
+            "description": {
+               "urls": []
+            }
+         },
+         "protected": false,
+         "followers_count": 622,
+         "friends_count": 49,
+         "listed_count": 7,
+         "created_at": "Wed Feb 06 16:02:42 +0000 2013",
+         "favourites_count": 0,
+         "utc_offset": 25200,
+         "time_zone": "Bangkok",
+         "geo_enabled": false,
+         "verified": false,
+         "statuses_count": 214496,
+         "lang": "en",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/3216506253/a2df0e1d31666e1f98b628e506b6a0e6_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/3216506253/a2df0e1d31666e1f98b628e506b6a0e6_normal.jpeg",
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": false,
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+   },
+   {
+      "created_at": "Tue May 02 14:29:16 +0000 2017",
+      "id": 859414493092130800,
+      "id_str": "859414493092130818",
+      "text": "Di Merangin Sehari Dua Nyawa Melayang Karena Laka Lantas https://t.co/LhORFmlFVD",
+      "truncated": false,
+      "entities": {
+         "hashtags": [],
+         "symbols": [],
+         "user_mentions": [],
+         "urls": [
+            {
+               "url": "https://t.co/LhORFmlFVD",
+               "expanded_url": "http://dlvr.it/P2hhgV",
+               "display_url": "dlvr.it/P2hhgV",
+               "indices": [
+                  57,
+                  80
+               ]
+            }
+         ]
+      },
+      "metadata": {
+         "iso_language_code": "in",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1468783286,
+         "id_str": "1468783286",
+         "name": "Kumpulan Jambi",
+         "screen_name": "kumpulanjambi",
+         "location": "Jambi - Indonesia",
+         "description": "Media Informasi dan Berita terbaru Kota Jambi & Sekitarnya. Kerjasama / iklan : kumpulanjambi@yahoo.com",
+         "url": null,
+         "entities": {
+            "description": {
+               "urls": []
+            }
+         },
+         "protected": false,
+         "followers_count": 7753,
+         "friends_count": 4442,
+         "listed_count": 12,
+         "created_at": "Thu May 30 02:48:44 +0000 2013",
+         "favourites_count": 1,
+         "utc_offset": 25200,
+         "time_zone": "Jakarta",
+         "geo_enabled": false,
+         "verified": false,
+         "statuses_count": 66125,
+         "lang": "en",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "131516",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_tile": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/3754392312/b59c6d4d5d7e2308a3be9706dcf3a301_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/3754392312/b59c6d4d5d7e2308a3be9706dcf3a301_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468783286/1370464113",
+         "profile_link_color": "009999",
+         "profile_sidebar_border_color": "EEEEEE",
+         "profile_sidebar_fill_color": "EFEFEF",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": false,
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+   },
+   {
+      "created_at": "Tue May 02 14:29:16 +0000 2017",
+      "id": 859414489405333500,
+      "id_str": "859414489405333504",
+      "text": "Di Merangin Sehari Dua Nyawa Melayang Karena Laka Lantas https://t.co/kgCEd4U9KZ https://t.co/bJEg620fIK",
+      "truncated": false,
+      "entities": {
+         "hashtags": [],
+         "symbols": [],
+         "user_mentions": [],
+         "urls": [
+            {
+               "url": "https://t.co/kgCEd4U9KZ",
+               "expanded_url": "http://dlvr.it/P2hhf3",
+               "display_url": "dlvr.it/P2hhf3",
+               "indices": [
+                  57,
+                  80
+               ]
+            }
+         ],
+         "media": [
+            {
+               "id": 859414486528049200,
+               "id_str": "859414486528049152",
+               "indices": [
+                  81,
+                  104
+               ],
+               "media_url": "http://pbs.twimg.com/media/C-1A7BBUQAAS_xx.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/C-1A7BBUQAAS_xx.jpg",
+               "url": "https://t.co/bJEg620fIK",
+               "display_url": "pic.twitter.com/bJEg620fIK",
+               "expanded_url": "https://twitter.com/tribunjambiku/status/859414489405333504/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 700,
+                     "h": 393,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 382,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 700,
+                     "h": 393,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 859414486528049200,
+               "id_str": "859414486528049152",
+               "indices": [
+                  81,
+                  104
+               ],
+               "media_url": "http://pbs.twimg.com/media/C-1A7BBUQAAS_xx.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/C-1A7BBUQAAS_xx.jpg",
+               "url": "https://t.co/bJEg620fIK",
+               "display_url": "pic.twitter.com/bJEg620fIK",
+               "expanded_url": "https://twitter.com/tribunjambiku/status/859414489405333504/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 700,
+                     "h": 393,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 382,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 700,
+                     "h": 393,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "metadata": {
+         "iso_language_code": "in",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 226039658,
+         "id_str": "226039658",
+         "name": "Tribun Jambi",
+         "screen_name": "tribunjambiku",
+         "location": "Jambi",
+         "description": "Tribun Jambi on Net \r\nhttp://t.co/9nfRLNw6pj\r\nhttp://t.co/y7x6B4uptx\r\nhttp://t.co/JhaagBw4dE\r\nhttp://t.co/FizSc9aEa9",
+         "url": "http://t.co/uIgeIdtOt0",
+         "entities": {
+            "url": {
+               "urls": [
+                  {
+                     "url": "http://t.co/uIgeIdtOt0",
+                     "expanded_url": "http://www.tribunjambi.com",
+                     "display_url": "tribunjambi.com",
+                     "indices": [
+                        0,
+                        22
+                     ]
+                  }
+               ]
+            },
+            "description": {
+               "urls": [
+                  {
+                     "url": "http://t.co/9nfRLNw6pj",
+                     "expanded_url": "http://tribunjambi.com/",
+                     "display_url": "tribunjambi.com",
+                     "indices": [
+                        22,
+                        44
+                     ]
+                  },
+                  {
+                     "url": "http://t.co/y7x6B4uptx",
+                     "expanded_url": "http://m.tribunjambi.com/",
+                     "display_url": "m.tribunjambi.com",
+                     "indices": [
+                        46,
+                        68
+                     ]
+                  },
+                  {
+                     "url": "http://t.co/JhaagBw4dE",
+                     "expanded_url": "http://epaper.tribunjambi.com/",
+                     "display_url": "epaper.tribunjambi.com",
+                     "indices": [
+                        70,
+                        92
+                     ]
+                  },
+                  {
+                     "url": "http://t.co/FizSc9aEa9",
+                     "expanded_url": "https://twitter.com/tribunjambiku",
+                     "display_url": "twitter.com/tribunjambiku",
+                     "indices": [
+                        94,
+                        116
+                     ]
+                  }
+               ]
+            }
+         },
+         "protected": false,
+         "followers_count": 15265,
+         "friends_count": 403,
+         "listed_count": 48,
+         "created_at": "Mon Dec 13 04:29:24 +0000 2010",
+         "favourites_count": 235,
+         "utc_offset": 25200,
+         "time_zone": "Jakarta",
+         "geo_enabled": true,
+         "verified": false,
+         "statuses_count": 124900,
+         "lang": "id",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/536027474555961344/dzVVr_1e_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/536027474555961344/dzVVr_1e_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/226039658/1472912825",
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": false,
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+   },
+   {
+      "created_at": "Tue May 02 14:29:14 +0000 2017",
+      "id": 859414481570365400,
+      "id_str": "859414481570365440",
+      "text": "Rental Dua Mobil, Eh Pria Ini Menggadaikannya ke Warga Suku Anak Dalam, ini yang Terjadi Kemudian https://t.co/sopVVp8WPl",
+      "truncated": false,
+      "entities": {
+         "hashtags": [],
+         "symbols": [],
+         "user_mentions": [],
+         "urls": [
+            {
+               "url": "https://t.co/sopVVp8WPl",
+               "expanded_url": "http://dlvr.it/P2hhcx",
+               "display_url": "dlvr.it/P2hhcx",
+               "indices": [
+                  98,
+                  121
+               ]
+            }
+         ]
+      },
+      "metadata": {
+         "iso_language_code": "in",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1468783286,
+         "id_str": "1468783286",
+         "name": "Kumpulan Jambi",
+         "screen_name": "kumpulanjambi",
+         "location": "Jambi - Indonesia",
+         "description": "Media Informasi dan Berita terbaru Kota Jambi & Sekitarnya. Kerjasama / iklan : kumpulanjambi@yahoo.com",
+         "url": null,
+         "entities": {
+            "description": {
+               "urls": []
+            }
+         },
+         "protected": false,
+         "followers_count": 7753,
+         "friends_count": 4442,
+         "listed_count": 12,
+         "created_at": "Thu May 30 02:48:44 +0000 2013",
+         "favourites_count": 1,
+         "utc_offset": 25200,
+         "time_zone": "Jakarta",
+         "geo_enabled": false,
+         "verified": false,
+         "statuses_count": 66125,
+         "lang": "en",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "131516",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_tile": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/3754392312/b59c6d4d5d7e2308a3be9706dcf3a301_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/3754392312/b59c6d4d5d7e2308a3be9706dcf3a301_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468783286/1370464113",
+         "profile_link_color": "009999",
+         "profile_sidebar_border_color": "EEEEEE",
+         "profile_sidebar_fill_color": "EFEFEF",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": false,
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+   },
+   {
+      "created_at": "Tue May 02 14:29:13 +0000 2017",
+      "id": 859414477338361900,
+      "id_str": "859414477338361856",
+      "text": "Rental Dua Mobil, Eh Pria Ini Menggadaikannya ke Warga Suku Anak Dalam, ini yang Terjadi Kemudian… https://t.co/LHyLuLmuni",
+      "truncated": true,
+      "entities": {
+         "hashtags": [],
+         "symbols": [],
+         "user_mentions": [],
+         "urls": [
+            {
+               "url": "https://t.co/LHyLuLmuni",
+               "expanded_url": "https://twitter.com/i/web/status/859414477338361856",
+               "display_url": "twitter.com/i/web/status/8…",
+               "indices": [
+                  99,
+                  122
+               ]
+            }
+         ]
+      },
+      "metadata": {
+         "iso_language_code": "in",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 226039658,
+         "id_str": "226039658",
+         "name": "Tribun Jambi",
+         "screen_name": "tribunjambiku",
+         "location": "Jambi",
+         "description": "Tribun Jambi on Net \r\nhttp://t.co/9nfRLNw6pj\r\nhttp://t.co/y7x6B4uptx\r\nhttp://t.co/JhaagBw4dE\r\nhttp://t.co/FizSc9aEa9",
+         "url": "http://t.co/uIgeIdtOt0",
+         "entities": {
+            "url": {
+               "urls": [
+                  {
+                     "url": "http://t.co/uIgeIdtOt0",
+                     "expanded_url": "http://www.tribunjambi.com",
+                     "display_url": "tribunjambi.com",
+                     "indices": [
+                        0,
+                        22
+                     ]
+                  }
+               ]
+            },
+            "description": {
+               "urls": [
+                  {
+                     "url": "http://t.co/9nfRLNw6pj",
+                     "expanded_url": "http://tribunjambi.com/",
+                     "display_url": "tribunjambi.com",
+                     "indices": [
+                        22,
+                        44
+                     ]
+                  },
+                  {
+                     "url": "http://t.co/y7x6B4uptx",
+                     "expanded_url": "http://m.tribunjambi.com/",
+                     "display_url": "m.tribunjambi.com",
+                     "indices": [
+                        46,
+                        68
+                     ]
+                  },
+                  {
+                     "url": "http://t.co/JhaagBw4dE",
+                     "expanded_url": "http://epaper.tribunjambi.com/",
+                     "display_url": "epaper.tribunjambi.com",
+                     "indices": [
+                        70,
+                        92
+                     ]
+                  },
+                  {
+                     "url": "http://t.co/FizSc9aEa9",
+                     "expanded_url": "https://twitter.com/tribunjambiku",
+                     "display_url": "twitter.com/tribunjambiku",
+                     "indices": [
+                        94,
+                        116
+                     ]
+                  }
+               ]
+            }
+         },
+         "protected": false,
+         "followers_count": 15265,
+         "friends_count": 403,
+         "listed_count": 48,
+         "created_at": "Mon Dec 13 04:29:24 +0000 2010",
+         "favourites_count": 235,
+         "utc_offset": 25200,
+         "time_zone": "Jakarta",
+         "geo_enabled": true,
+         "verified": false,
+         "statuses_count": 124900,
+         "lang": "id",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/536027474555961344/dzVVr_1e_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/536027474555961344/dzVVr_1e_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/226039658/1472912825",
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": false,
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+   },
+   {
+      "created_at": "Tue May 02 14:29:13 +0000 2017",
+      "id": 859414476583391200,
+      "id_str": "859414476583391232",
+      "text": "Serunya Gelaran Pemilihan Putri Kartini Dan Putra Ki Hadjar Dewantara di SMA 1 Kota Jambi https://t.co/wPVJRXnihW",
+      "truncated": false,
+      "entities": {
+         "hashtags": [],
+         "symbols": [],
+         "user_mentions": [],
+         "urls": [
+            {
+               "url": "https://t.co/wPVJRXnihW",
+               "expanded_url": "http://dlvr.it/P2hhYP",
+               "display_url": "dlvr.it/P2hhYP",
+               "indices": [
+                  90,
+                  113
+               ]
+            }
+         ]
+      },
+      "metadata": {
+         "iso_language_code": "in",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 1468783286,
+         "id_str": "1468783286",
+         "name": "Kumpulan Jambi",
+         "screen_name": "kumpulanjambi",
+         "location": "Jambi - Indonesia",
+         "description": "Media Informasi dan Berita terbaru Kota Jambi & Sekitarnya. Kerjasama / iklan : kumpulanjambi@yahoo.com",
+         "url": null,
+         "entities": {
+            "description": {
+               "urls": []
+            }
+         },
+         "protected": false,
+         "followers_count": 7753,
+         "friends_count": 4442,
+         "listed_count": 12,
+         "created_at": "Thu May 30 02:48:44 +0000 2013",
+         "favourites_count": 1,
+         "utc_offset": 25200,
+         "time_zone": "Jakarta",
+         "geo_enabled": false,
+         "verified": false,
+         "statuses_count": 66125,
+         "lang": "en",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "131516",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+         "profile_background_tile": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/3754392312/b59c6d4d5d7e2308a3be9706dcf3a301_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/3754392312/b59c6d4d5d7e2308a3be9706dcf3a301_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/1468783286/1370464113",
+         "profile_link_color": "009999",
+         "profile_sidebar_border_color": "EEEEEE",
+         "profile_sidebar_fill_color": "EFEFEF",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": false,
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+   },
+   {
+      "created_at": "Tue May 02 14:29:10 +0000 2017",
+      "id": 859414467146272800,
+      "id_str": "859414467146272768",
+      "text": "Serunya Gelaran Pemilihan Putri Kartini Dan Putra Ki Hadjar Dewantara di SMA 1 Kota Jambi https://t.co/lb6pR1jovp https://t.co/4x1nwd7Ebl",
+      "truncated": false,
+      "entities": {
+         "hashtags": [],
+         "symbols": [],
+         "user_mentions": [],
+         "urls": [
+            {
+               "url": "https://t.co/lb6pR1jovp",
+               "expanded_url": "http://dlvr.it/P2hhPR",
+               "display_url": "dlvr.it/P2hhPR",
+               "indices": [
+                  90,
+                  113
+               ]
+            }
+         ],
+         "media": [
+            {
+               "id": 859414463937527800,
+               "id_str": "859414463937527809",
+               "indices": [
+                  114,
+                  137
+               ],
+               "media_url": "http://pbs.twimg.com/media/C-1A5s3UQAE2xn_.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/C-1A5s3UQAE2xn_.jpg",
+               "url": "https://t.co/4x1nwd7Ebl",
+               "display_url": "pic.twitter.com/4x1nwd7Ebl",
+               "expanded_url": "https://twitter.com/tribunjambiku/status/859414467146272768/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 700,
+                     "h": 393,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 382,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 700,
+                     "h": 393,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "extended_entities": {
+         "media": [
+            {
+               "id": 859414463937527800,
+               "id_str": "859414463937527809",
+               "indices": [
+                  114,
+                  137
+               ],
+               "media_url": "http://pbs.twimg.com/media/C-1A5s3UQAE2xn_.jpg",
+               "media_url_https": "https://pbs.twimg.com/media/C-1A5s3UQAE2xn_.jpg",
+               "url": "https://t.co/4x1nwd7Ebl",
+               "display_url": "pic.twitter.com/4x1nwd7Ebl",
+               "expanded_url": "https://twitter.com/tribunjambiku/status/859414467146272768/photo/1",
+               "type": "photo",
+               "sizes": {
+                  "medium": {
+                     "w": 700,
+                     "h": 393,
+                     "resize": "fit"
+                  },
+                  "thumb": {
+                     "w": 150,
+                     "h": 150,
+                     "resize": "crop"
+                  },
+                  "small": {
+                     "w": 680,
+                     "h": 382,
+                     "resize": "fit"
+                  },
+                  "large": {
+                     "w": 700,
+                     "h": 393,
+                     "resize": "fit"
+                  }
+               }
+            }
+         ]
+      },
+      "metadata": {
+         "iso_language_code": "in",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 226039658,
+         "id_str": "226039658",
+         "name": "Tribun Jambi",
+         "screen_name": "tribunjambiku",
+         "location": "Jambi",
+         "description": "Tribun Jambi on Net \r\nhttp://t.co/9nfRLNw6pj\r\nhttp://t.co/y7x6B4uptx\r\nhttp://t.co/JhaagBw4dE\r\nhttp://t.co/FizSc9aEa9",
+         "url": "http://t.co/uIgeIdtOt0",
+         "entities": {
+            "url": {
+               "urls": [
+                  {
+                     "url": "http://t.co/uIgeIdtOt0",
+                     "expanded_url": "http://www.tribunjambi.com",
+                     "display_url": "tribunjambi.com",
+                     "indices": [
+                        0,
+                        22
+                     ]
+                  }
+               ]
+            },
+            "description": {
+               "urls": [
+                  {
+                     "url": "http://t.co/9nfRLNw6pj",
+                     "expanded_url": "http://tribunjambi.com/",
+                     "display_url": "tribunjambi.com",
+                     "indices": [
+                        22,
+                        44
+                     ]
+                  },
+                  {
+                     "url": "http://t.co/y7x6B4uptx",
+                     "expanded_url": "http://m.tribunjambi.com/",
+                     "display_url": "m.tribunjambi.com",
+                     "indices": [
+                        46,
+                        68
+                     ]
+                  },
+                  {
+                     "url": "http://t.co/JhaagBw4dE",
+                     "expanded_url": "http://epaper.tribunjambi.com/",
+                     "display_url": "epaper.tribunjambi.com",
+                     "indices": [
+                        70,
+                        92
+                     ]
+                  },
+                  {
+                     "url": "http://t.co/FizSc9aEa9",
+                     "expanded_url": "https://twitter.com/tribunjambiku",
+                     "display_url": "twitter.com/tribunjambiku",
+                     "indices": [
+                        94,
+                        116
+                     ]
+                  }
+               ]
+            }
+         },
+         "protected": false,
+         "followers_count": 15265,
+         "friends_count": 403,
+         "listed_count": 48,
+         "created_at": "Mon Dec 13 04:29:24 +0000 2010",
+         "favourites_count": 235,
+         "utc_offset": 25200,
+         "time_zone": "Jakarta",
+         "geo_enabled": true,
+         "verified": false,
+         "statuses_count": 124900,
+         "lang": "id",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "C0DEED",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": true,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/536027474555961344/dzVVr_1e_normal.jpeg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/536027474555961344/dzVVr_1e_normal.jpeg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/226039658/1472912825",
+         "profile_link_color": "0084B4",
+         "profile_sidebar_border_color": "FFFFFF",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": false,
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+   },
+   {
+      "created_at": "Tue May 02 14:29:06 +0000 2017",
+      "id": 859414447999275000,
+      "id_str": "859414447999275008",
+      "text": "RT @DPP_PKB: Ketua Umum DPP PKB @cakiminpkb menerima audiensi para Nelayan. Nelayan juga butuh biaya utk pendidikan anak2 mereka. #PKBpedul…",
+      "truncated": false,
+      "entities": {
+         "hashtags": [],
+         "symbols": [],
+         "user_mentions": [
+            {
+               "screen_name": "DPP_PKB",
+               "name": "DPP PKB",
+               "id": 748953283,
+               "id_str": "748953283",
+               "indices": [
+                  3,
+                  11
+               ]
+            },
+            {
+               "screen_name": "cakiminpkb",
+               "name": "A MUHAIMIN ISKANDAR",
+               "id": 1490116879,
+               "id_str": "1490116879",
+               "indices": [
+                  32,
+                  43
+               ]
+            }
+         ],
+         "urls": []
+      },
+      "metadata": {
+         "iso_language_code": "in",
+         "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 810008736790118400,
+         "id_str": "810008736790118400",
+         "name": "DPW PKB JAMBI",
+         "screen_name": "DPW_PKB_JAMBI",
+         "location": "Telanaipura, Kota Jambi Indone",
+         "description": "\"Jika ada rasa memiliki, ikhlas akan tumbuh dengan sendirinya\"",
+         "url": null,
+         "entities": {
+            "description": {
+               "urls": []
+            }
+         },
+         "protected": false,
+         "followers_count": 18,
+         "friends_count": 33,
+         "listed_count": 0,
+         "created_at": "Sat Dec 17 06:28:26 +0000 2016",
+         "favourites_count": 71,
+         "utc_offset": null,
+         "time_zone": null,
+         "geo_enabled": false,
+         "verified": false,
+         "statuses_count": 105,
+         "lang": "id",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "F5F8FA",
+         "profile_background_image_url": null,
+         "profile_background_image_url_https": null,
+         "profile_background_tile": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/815549052687257601/sPPXnKdu_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/815549052687257601/sPPXnKdu_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/810008736790118400/1483277019",
+         "profile_link_color": "1DA1F2",
+         "profile_sidebar_border_color": "C0DEED",
+         "profile_sidebar_fill_color": "DDEEF6",
+         "profile_text_color": "333333",
+         "profile_use_background_image": true,
+         "has_extended_profile": true,
+         "default_profile": true,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+         "created_at": "Tue May 02 07:49:36 +0000 2017",
+         "id": 859313911857729500,
+         "id_str": "859313911857729536",
+         "text": "Ketua Umum DPP PKB @cakiminpkb menerima audiensi para Nelayan. Nelayan juga butuh biaya utk pendidikan anak2 mereka… https://t.co/DvncdQF4rb",
+         "truncated": true,
+         "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+               {
+                  "screen_name": "cakiminpkb",
+                  "name": "A MUHAIMIN ISKANDAR",
+                  "id": 1490116879,
+                  "id_str": "1490116879",
+                  "indices": [
+                     19,
+                     30
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/DvncdQF4rb",
+                  "expanded_url": "https://twitter.com/i/web/status/859313911857729536",
+                  "display_url": "twitter.com/i/web/status/8…",
+                  "indices": [
+                     117,
+                     140
+                  ]
+               }
+            ]
+         },
+         "metadata": {
+            "iso_language_code": "in",
+            "result_type": "recent"
+         },
+         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 748953283,
+            "id_str": "748953283",
+            "name": "DPP PKB",
+            "screen_name": "DPP_PKB",
+            "location": "Jalan Raden Saleh No 9 Jakarta",
+            "description": "Akun Resmi Dewan Pengurus Pusat Partai Kebangkitan Bangsa. Telp. 021 3145328 Fax. 021 3145329 Email: redaksi@pkb.or.id #PKBMembelaRakyat",
+            "url": "https://t.co/nZzEfIMMjO",
+            "entities": {
+               "url": {
+                  "urls": [
+                     {
+                        "url": "https://t.co/nZzEfIMMjO",
+                        "expanded_url": "http://www.pkb.or.id/",
+                        "display_url": "pkb.or.id",
+                        "indices": [
+                           0,
+                           23
+                        ]
+                     }
+                  ]
+               },
+               "description": {
+                  "urls": []
+               }
+            },
+            "protected": false,
+            "followers_count": 28319,
+            "friends_count": 836,
+            "listed_count": 48,
+            "created_at": "Fri Aug 10 08:41:54 +0000 2012",
+            "favourites_count": 5307,
+            "utc_offset": 25200,
+            "time_zone": "Jakarta",
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 66435,
+            "lang": "id",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/824652203394691072/EnvIPKhp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/824652203394691072/EnvIPKhp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/748953283/1488871855",
+            "profile_link_color": "009924",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "retweet_count": 62,
+         "favorite_count": 33,
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "lang": "in"
+      },
+      "is_quote_status": false,
+      "retweet_count": 62,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "in"
+   },
+   {
+      "created_at": "Tue May 02 14:29:05 +0000 2017",
+      "id": 859414444572422100,
+      "id_str": "859414444572422144",
+      "text": "RT @quaaabcj: 짜뇨시💕\n\n@B_hyuneeS2 @My_Candyfloss_B @4color_ff @CodaHeaven @pear56BH @_joy_ii @beatus_048 @JAMBI_115 @amoureux_CB @112756_soyb…",
+      "truncated": false,
+      "entities": {
+         "hashtags": [],
+         "symbols": [],
+         "user_mentions": [
+            {
+               "screen_name": "quaaabcj",
+               "name": "쿠ㅏ 🍭 #큥일위크",
+               "id": 3037272276,
+               "id_str": "3037272276",
+               "indices": [
+                  3,
+                  12
+               ]
+            },
+            {
+               "screen_name": "B_hyuneeS2",
+               "name": "스정",
+               "id": 2704167852,
+               "id_str": "2704167852",
+               "indices": [
+                  20,
+                  31
+               ]
+            },
+            {
+               "screen_name": "My_Candyfloss_B",
+               "name": "D-4💕#바래다줄게 솜이✧",
+               "id": 826718710245257200,
+               "id_str": "826718710245257216",
+               "indices": [
+                  32,
+                  48
+               ]
+            },
+            {
+               "screen_name": "4color_ff",
+               "name": "사색실",
+               "id": 184526498,
+               "id_str": "184526498",
+               "indices": [
+                  49,
+                  59
+               ]
+            },
+            {
+               "screen_name": "CodaHeaven",
+               "name": "코다",
+               "id": 726745821610266600,
+               "id_str": "726745821610266624",
+               "indices": [
+                  60,
+                  71
+               ]
+            },
+            {
+               "screen_name": "pear56BH",
+               "name": "찬백온 입금중❤ 배배",
+               "id": 3084341719,
+               "id_str": "3084341719",
+               "indices": [
+                  72,
+                  81
+               ]
+            },
+            {
+               "screen_name": "_joy_ii",
+               "name": "조이",
+               "id": 4310417413,
+               "id_str": "4310417413",
+               "indices": [
+                  82,
+                  90
+               ]
+            },
+            {
+               "screen_name": "beatus_048",
+               "name": "르노 [찬백온 선입금 5/26]",
+               "id": 733329911172104200,
+               "id_str": "733329911172104193",
+               "indices": [
+                  91,
+                  102
+               ]
+            },
+            {
+               "screen_name": "JAMBI_115",
+               "name": "잠비",
+               "id": 2852697668,
+               "id_str": "2852697668",
+               "indices": [
+                  103,
+                  113
+               ]
+            },
+            {
+               "screen_name": "amoureux_CB",
+               "name": "분홍불빛(메트확인필수)",
+               "id": 3250728061,
+               "id_str": "3250728061",
+               "indices": [
+                  114,
+                  126
+               ]
+            }
+         ],
+         "urls": []
+      },
+      "metadata": {
+         "result_type": "recent",
+         "iso_language_code": "ko"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+         "id": 778496348391780400,
+         "id_str": "778496348391780352",
+         "name": "열큐이｡ﾟ(´つω･`｡)ﾟ｡♡",
+         "screen_name": "ll27O5O6_x3x",
+         "location": "@___x3x___(직찍,직캠계정)",
+         "description": "61+4=💕 찬백찬백하고울어요(*σ´∀`)σ 갈라놓으면 물어버릴꺼야٩(๑•̀ ₃ •́ )۶ \nRPS:: 찬백이외의 백른,찬공 싫어요👊 찬른 당연히 거부👊 그외는 다커버가능한듯👌\n알티, 잡담과 개소리 많음╭( ･ㅂ･)و ̑̑",
+         "url": null,
+         "entities": {
+            "description": {
+               "urls": []
+            }
+         },
+         "protected": false,
+         "followers_count": 671,
+         "friends_count": 299,
+         "listed_count": 3,
+         "created_at": "Wed Sep 21 07:29:28 +0000 2016",
+         "favourites_count": 392,
+         "utc_offset": 32400,
+         "time_zone": "Seoul",
+         "geo_enabled": false,
+         "verified": false,
+         "statuses_count": 5335,
+         "lang": "ko",
+         "contributors_enabled": false,
+         "is_translator": false,
+         "is_translation_enabled": false,
+         "profile_background_color": "000000",
+         "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+         "profile_background_tile": false,
+         "profile_image_url": "http://pbs.twimg.com/profile_images/857926000499343361/p3pa_IRR_normal.jpg",
+         "profile_image_url_https": "https://pbs.twimg.com/profile_images/857926000499343361/p3pa_IRR_normal.jpg",
+         "profile_banner_url": "https://pbs.twimg.com/profile_banners/778496348391780352/1491046985",
+         "profile_link_color": "7FDBB6",
+         "profile_sidebar_border_color": "000000",
+         "profile_sidebar_fill_color": "000000",
+         "profile_text_color": "000000",
+         "profile_use_background_image": false,
+         "has_extended_profile": true,
+         "default_profile": false,
+         "default_profile_image": false,
+         "following": false,
+         "follow_request_sent": false,
+         "notifications": false,
+         "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+         "created_at": "Tue May 02 14:27:14 +0000 2017",
+         "id": 859413981278027800,
+         "id_str": "859413981278027776",
+         "text": "짜뇨시💕\n\n@B_hyuneeS2 @My_Candyfloss_B @4color_ff @CodaHeaven @pear56BH @_joy_ii @beatus_048 @JAMBI_115 @amoureux_CB… https://t.co/5HF1pWA9ro",
+         "truncated": true,
+         "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+               {
+                  "screen_name": "B_hyuneeS2",
+                  "name": "스정",
+                  "id": 2704167852,
+                  "id_str": "2704167852",
+                  "indices": [
+                     6,
+                     17
+                  ]
+               },
+               {
+                  "screen_name": "My_Candyfloss_B",
+                  "name": "D-4💕#바래다줄게 솜이✧",
+                  "id": 826718710245257200,
+                  "id_str": "826718710245257216",
+                  "indices": [
+                     18,
+                     34
+                  ]
+               },
+               {
+                  "screen_name": "4color_ff",
+                  "name": "사색실",
+                  "id": 184526498,
+                  "id_str": "184526498",
+                  "indices": [
+                     35,
+                     45
+                  ]
+               },
+               {
+                  "screen_name": "CodaHeaven",
+                  "name": "코다",
+                  "id": 726745821610266600,
+                  "id_str": "726745821610266624",
+                  "indices": [
+                     46,
+                     57
+                  ]
+               },
+               {
+                  "screen_name": "pear56BH",
+                  "name": "찬백온 입금중❤ 배배",
+                  "id": 3084341719,
+                  "id_str": "3084341719",
+                  "indices": [
+                     58,
+                     67
+                  ]
+               },
+               {
+                  "screen_name": "_joy_ii",
+                  "name": "조이",
+                  "id": 4310417413,
+                  "id_str": "4310417413",
+                  "indices": [
+                     68,
+                     76
+                  ]
+               },
+               {
+                  "screen_name": "beatus_048",
+                  "name": "르노 [찬백온 선입금 5/26]",
+                  "id": 733329911172104200,
+                  "id_str": "733329911172104193",
+                  "indices": [
+                     77,
+                     88
+                  ]
+               },
+               {
+                  "screen_name": "JAMBI_115",
+                  "name": "잠비",
+                  "id": 2852697668,
+                  "id_str": "2852697668",
+                  "indices": [
+                     89,
+                     99
+                  ]
+               },
+               {
+                  "screen_name": "amoureux_CB",
+                  "name": "분홍불빛(메트확인필수)",
+                  "id": 3250728061,
+                  "id_str": "3250728061",
+                  "indices": [
+                     100,
+                     112
+                  ]
+               }
+            ],
+            "urls": [
+               {
+                  "url": "https://t.co/5HF1pWA9ro",
+                  "expanded_url": "https://twitter.com/i/web/status/859413981278027776",
+                  "display_url": "twitter.com/i/web/status/8…",
+                  "indices": [
+                     114,
+                     137
+                  ]
+               }
+            ]
+         },
+         "metadata": {
+            "result_type": "recent",
+            "iso_language_code": "ko"
+         },
+         "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+         "in_reply_to_status_id": null,
+         "in_reply_to_status_id_str": null,
+         "in_reply_to_user_id": null,
+         "in_reply_to_user_id_str": null,
+         "in_reply_to_screen_name": null,
+         "user": {
+            "id": 3037272276,
+            "id_str": "3037272276",
+            "name": "쿠ㅏ 🍭 #큥일위크",
+            "screen_name": "quaaabcj",
+            "location": "",
+            "description": "[ 온리 찬백!!!! ] 차애는 준며니 ☄\n알티러보단 하트러 ;ㅅ; 해치지 않습니다 저는 엑소 에리 입니다 ( feat. 김수호 )\n\n인장 : 척츄님💕\n\n그쪽팬이랑 알계 즉시 차단🙆",
+            "url": null,
+            "entities": {
+               "description": {
+                  "urls": []
+               }
+            },
+            "protected": false,
+            "followers_count": 872,
+            "friends_count": 625,
+            "listed_count": 3,
+            "created_at": "Mon Feb 23 04:30:04 +0000 2015",
+            "favourites_count": 4883,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 37618,
+            "lang": "ko",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/855086071415058432/A99TEmWT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/855086071415058432/A99TEmWT_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3037272276/1493492691",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+         },
+         "geo": null,
+         "coordinates": null,
+         "place": null,
+         "contributors": null,
+         "is_quote_status": false,
+         "retweet_count": 4,
+         "favorite_count": 0,
+         "favorited": false,
+         "retweeted": false,
+         "possibly_sensitive": false,
+         "lang": "ko"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ko"
+   }
+]
